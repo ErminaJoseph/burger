@@ -1,0 +1,20 @@
+body {
+    background: url("/assets/img/background.jpg");
+}
+
+h1 {
+    font-family: 'Luckiest Guy', cursive;
+    color: whitesmoke;
+    font-weight: 1000px;
+    text-align: center;
+    font-size: 200px;
+}
+
+.container {
+    background: whitesmoke;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+h2 {
+    font-family: 'Luckiest Guy', cursive;
+}
